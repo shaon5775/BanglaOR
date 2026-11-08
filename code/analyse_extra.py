@@ -26,7 +26,7 @@ for src in ['results/full/full_guard.csv', 'results/fix/fix_guard.csv']:
         if src.endswith('full_guard.csv') and g == 'IndicGuard': continue
         if r['label'] == 'NOT_RUN' or r['p_unsafe'] in ('', 'nan'): continue
         seed, st, form = meta(r['id'])
-        if src.endswith('full_guard.csv') and st == 'trigger' and form == 'english': continue
+        if st == 'trigger' and form == 'english': continue   # short gloss, not the full-question reference
         if form == 'english_full': form = 'english'
         key = seed if st != 'trigger' else 'T' + seed
         prob[(g, st, form)][key] = float(r['p_unsafe'])
