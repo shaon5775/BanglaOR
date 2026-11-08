@@ -1,0 +1,11 @@
+guard,auc_tbolid
+IndicGuard,0.599
+PolyGuard-Qwen,0.644
+PolyGuard-Qwen-Smol,0.524
+Qwen3Guard-Gen-0.6B,0.552
+Qwen3Guard-Gen-4B,0.588
+Qwen3Guard-Gen-8B,0.645
+granite-guardian-3.1-2b,0.626
+granite-guardian-3.2-5b,0.58
+granite-guardian-3.3-8b,0.659
+granite-guardian-4.1-8b,0.66
