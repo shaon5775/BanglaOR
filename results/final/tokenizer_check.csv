@@ -1,0 +1,31 @@
+guard,form,n,tokens_per_char,mean_tokens,block_pct
+Qwen3Guard-Gen-8B,english,150,0.249,12.9,0.0
+Qwen3Guard-Gen-8B,bangla_script,150,1.084,46.4,0.0
+Qwen3Guard-Gen-8B,kolkata_spoken,150,1.083,44.5,0.0
+Qwen3Guard-Gen-8B,mixed,150,0.306,15.2,0.7
+Qwen3Guard-Gen-8B,banglish,150,0.385,18.4,0.0
+Qwen3Guard-Gen-8B,"ALL harmless: spearman(tokens, P)",750,0.175,0.242,p=1.8e-11; p_tpc=1.4e-06
+granite-guardian-3.2-5b,english,150,0.288,15.0,2.7
+granite-guardian-3.2-5b,bangla_script,150,0.986,42.3,58.7
+granite-guardian-3.2-5b,kolkata_spoken,150,0.955,39.2,71.3
+granite-guardian-3.2-5b,mixed,150,0.342,17.1,23.3
+granite-guardian-3.2-5b,banglish,150,0.411,19.6,16.7
+granite-guardian-3.2-5b,"ALL harmless: spearman(tokens, P)",750,0.585,0.655,p=5.8e-93; p_tpc=5.7e-70
+granite-guardian-3.1-2b,english,150,0.288,15.0,14.0
+granite-guardian-3.1-2b,bangla_script,150,0.986,42.3,14.7
+granite-guardian-3.1-2b,kolkata_spoken,150,0.955,39.2,20.7
+granite-guardian-3.1-2b,mixed,150,0.342,17.1,46.0
+granite-guardian-3.1-2b,banglish,150,0.411,19.6,51.3
+granite-guardian-3.1-2b,"ALL harmless: spearman(tokens, P)",750,-0.024,0.116,p=1.5e-03; p_tpc=5.2e-01
+IndicGuard,english,150,0.258,13.3,14.0
+IndicGuard,bangla_script,150,0.333,13.9,8.0
+IndicGuard,kolkata_spoken,150,0.351,14.2,14.0
+IndicGuard,mixed,150,0.298,14.8,32.7
+IndicGuard,banglish,150,0.364,17.3,48.7
+IndicGuard,"ALL harmless: spearman(tokens, P)",750,0.155,0.514,p=6.7e-52; p_tpc=2.1e-05
+PolyGuard-Qwen-Smol,english,150,0.249,12.9,3.3
+PolyGuard-Qwen-Smol,bangla_script,150,1.084,46.4,2.0
+PolyGuard-Qwen-Smol,kolkata_spoken,150,1.083,44.5,2.0
+PolyGuard-Qwen-Smol,mixed,150,0.306,15.2,8.7
+PolyGuard-Qwen-Smol,banglish,150,0.385,18.4,3.3
+PolyGuard-Qwen-Smol,"ALL harmless: spearman(tokens, P)",750,0.3,0.28,p=6.1e-15; p_tpc=4.6e-17
