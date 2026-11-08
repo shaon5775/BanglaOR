@@ -3,7 +3,7 @@
 This repository holds the data, code and model outputs for the paper
 
 > Shaon Bandyopadhyay. *Blocked in Bangla, Blind in Bengali: Auditing Open Safety Guards across Script,
-> Colloquial, Code-Mixed and Romanized Bangla.* Manuscript submitted to *Social Network Analysis and Mining* (Springer).
+> Colloquial, Code-Mixed and Romanized Bangla.* Manuscript prepared for *Language Resources and Evaluation* (Springer).
 
 **Content warning:** some files contain model outputs for harmful prompts taken from the public MultiJail
 benchmark. They are released only so that the results can be checked.
