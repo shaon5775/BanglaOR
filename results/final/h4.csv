@@ -1,0 +1,11 @@
+guard,worst_form,falseblock_max,after_tr,recall_bn,recall_after_tr,recall_en,fix_works
+IndicGuard,banglish,63.0,15.0,81.6,72.4,86.3,False
+PolyGuard-Qwen,mixed,17.0,9.0,84.8,78.7,89.8,False
+PolyGuard-Qwen-Smol,mixed,13.0,9.0,22.2,74.9,87.3,True
+Qwen3Guard-Gen-0.6B,bangla_script,4.0,2.0,41.9,66.0,81.3,True
+Qwen3Guard-Gen-4B,bangla_script,0.0,2.0,56.2,62.9,79.0,False
+Qwen3Guard-Gen-8B,mixed,1.0,2.0,66.0,61.3,79.7,False
+granite-guardian-3.1-2b,mixed,63.0,22.0,55.9,78.1,91.4,True
+granite-guardian-3.2-5b,kolkata_spoken,81.0,12.0,96.5,76.2,92.4,False
+granite-guardian-3.3-8b,mixed,23.0,13.0,57.8,80.3,90.8,True
+granite-guardian-4.1-8b,mixed,13.0,13.0,76.5,78.4,91.4,False

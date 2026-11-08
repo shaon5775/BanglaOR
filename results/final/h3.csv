@@ -1,0 +1,81 @@
+guard,form,auc,thr,false_block,recall
+IndicGuard,english,0.95,,,
+IndicGuard,bangla_script,0.909,,,
+IndicGuard,bangla_script__tr,0.898,,,
+IndicGuard,english @EN90,,0.0003,10.0,89.8
+IndicGuard,bangla_script @EN90,,0.0003,16.7,87.9
+IndicGuard,kolkata_spoken @EN90,,0.0003,28.0,
+IndicGuard,mixed @EN90,,0.0003,51.3,
+IndicGuard,banglish @EN90,,0.0003,65.3,
+PolyGuard-Qwen,english,0.972,,,
+PolyGuard-Qwen,bangla_script,0.942,,,
+PolyGuard-Qwen,bangla_script__tr,0.936,,,
+PolyGuard-Qwen,english @EN90,,0.5431,3.3,89.8
+PolyGuard-Qwen,bangla_script @EN90,,0.5431,6.0,83.5
+PolyGuard-Qwen,kolkata_spoken @EN90,,0.5431,9.3,
+PolyGuard-Qwen,mixed @EN90,,0.5431,10.0,
+PolyGuard-Qwen,banglish @EN90,,0.5431,9.3,
+PolyGuard-Qwen-Smol,english,0.961,,,
+PolyGuard-Qwen-Smol,bangla_script,0.82,,,
+PolyGuard-Qwen-Smol,bangla_script__tr,0.931,,,
+PolyGuard-Qwen-Smol,english @EN90,,0.3381,5.3,89.8
+PolyGuard-Qwen-Smol,bangla_script @EN90,,0.3381,3.3,41.6
+PolyGuard-Qwen-Smol,kolkata_spoken @EN90,,0.3381,8.0,
+PolyGuard-Qwen-Smol,mixed @EN90,,0.3381,12.7,
+PolyGuard-Qwen-Smol,banglish @EN90,,0.3381,4.7,
+Qwen3Guard-Gen-0.6B,english,0.963,,,
+Qwen3Guard-Gen-0.6B,bangla_script,0.872,,,
+Qwen3Guard-Gen-0.6B,bangla_script__tr,0.921,,,
+Qwen3Guard-Gen-0.6B,english @EN90,,0.8099,3.3,89.8
+Qwen3Guard-Gen-0.6B,bangla_script @EN90,,0.8099,4.7,53.7
+Qwen3Guard-Gen-0.6B,kolkata_spoken @EN90,,0.8099,6.0,
+Qwen3Guard-Gen-0.6B,mixed @EN90,,0.8099,10.0,
+Qwen3Guard-Gen-0.6B,banglish @EN90,,0.8099,4.0,
+Qwen3Guard-Gen-4B,english,0.966,,,
+Qwen3Guard-Gen-4B,bangla_script,0.955,,,
+Qwen3Guard-Gen-4B,bangla_script__tr,0.915,,,
+Qwen3Guard-Gen-4B,english @EN90,,0.8986,2.0,89.8
+Qwen3Guard-Gen-4B,bangla_script @EN90,,0.8986,2.0,78.4
+Qwen3Guard-Gen-4B,kolkata_spoken @EN90,,0.8986,2.7,
+Qwen3Guard-Gen-4B,mixed @EN90,,0.8986,2.7,
+Qwen3Guard-Gen-4B,banglish @EN90,,0.8986,0.7,
+Qwen3Guard-Gen-8B,english,0.975,,,
+Qwen3Guard-Gen-8B,bangla_script,0.964,,,
+Qwen3Guard-Gen-8B,bangla_script__tr,0.933,,,
+Qwen3Guard-Gen-8B,english @EN90,,0.9091,1.3,89.8
+Qwen3Guard-Gen-8B,bangla_script @EN90,,0.9091,2.0,85.1
+Qwen3Guard-Gen-8B,kolkata_spoken @EN90,,0.9091,2.0,
+Qwen3Guard-Gen-8B,mixed @EN90,,0.9091,3.3,
+Qwen3Guard-Gen-8B,banglish @EN90,,0.9091,2.7,
+granite-guardian-3.1-2b,english,0.957,,,
+granite-guardian-3.1-2b,bangla_script,0.779,,,
+granite-guardian-3.1-2b,bangla_script__tr,0.898,,,
+granite-guardian-3.1-2b,english @EN90,,0.5874,10.0,89.8
+granite-guardian-3.1-2b,bangla_script @EN90,,0.5874,8.0,47.9
+granite-guardian-3.1-2b,kolkata_spoken @EN90,,0.5874,9.3,
+granite-guardian-3.1-2b,mixed @EN90,,0.5874,33.3,
+granite-guardian-3.1-2b,banglish @EN90,,0.5874,27.3,
+granite-guardian-3.2-5b,english,0.972,,,
+granite-guardian-3.2-5b,bangla_script,0.819,,,
+granite-guardian-3.2-5b,bangla_script__tr,0.926,,,
+granite-guardian-3.2-5b,english @EN90,,0.6197,2.7,89.8
+granite-guardian-3.2-5b,bangla_script @EN90,,0.6197,48.7,93.7
+granite-guardian-3.2-5b,kolkata_spoken @EN90,,0.6197,59.3,
+granite-guardian-3.2-5b,mixed @EN90,,0.6197,19.3,
+granite-guardian-3.2-5b,banglish @EN90,,0.6197,9.3,
+granite-guardian-3.3-8b,english,0.964,,,
+granite-guardian-3.3-8b,bangla_script,0.853,,,
+granite-guardian-3.3-8b,bangla_script__tr,0.916,,,
+granite-guardian-3.3-8b,english @EN90,,0.8105,4.7,89.8
+granite-guardian-3.3-8b,bangla_script @EN90,,0.8105,2.7,51.1
+granite-guardian-3.3-8b,kolkata_spoken @EN90,,0.8105,2.7,
+granite-guardian-3.3-8b,mixed @EN90,,0.8105,10.7,
+granite-guardian-3.3-8b,banglish @EN90,,0.8105,4.0,
+granite-guardian-4.1-8b,english,0.97,,,
+granite-guardian-4.1-8b,bangla_script,0.929,,,
+granite-guardian-4.1-8b,bangla_script__tr,0.915,,,
+granite-guardian-4.1-8b,english @EN90,,0.7729,4.7,89.8
+granite-guardian-4.1-8b,bangla_script @EN90,,0.7729,3.3,74.0
+granite-guardian-4.1-8b,kolkata_spoken @EN90,,0.7729,3.3,
+granite-guardian-4.1-8b,mixed @EN90,,0.7729,4.0,
+granite-guardian-4.1-8b,banglish @EN90,,0.7729,2.0,
