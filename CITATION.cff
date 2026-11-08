@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use BanglaOR, please cite it as below."
+title: "BanglaOR: auditing open safety guards on Bengali script, Kolkata speech, code-mixed and romanized Bangla"
+authors:
+  - family-names: Bandyopadhyay
+    given-names: Shaon
+    affiliation: "Indian Institute of Information Technology Kalyani"
+date-released: 2026-11-08
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/shaon5775/BanglaOR"
