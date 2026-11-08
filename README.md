@@ -33,8 +33,9 @@ All Bangla forms were written by the author, a native speaker from West Bengal.
 | `notebooks/` | the Kaggle notebooks used for every stage (pilot, P2, confirmation, full study, reviewer-fix run, real comments, light filters and judges) |
 | `code/` | the scripts that build the notebooks, the merged analysis (`analyse_fix.py`) and the figures (`plots/make_figures.py`) |
 | `results/raw/` | per-text guard verdicts and P(unsafe) for all 10 guards (`full_guard.csv`, `fix_guard.csv`, `social_guard.csv`) |
-| `results/final/` | every number in the paper: summaries with Wilson CIs, McNemar + Holm tests, ROC/threshold results, translate-first, version drift, romanized harm, real comments, Qwen3Guard strict reading |
+| `results/final/` | every number in the paper: summaries with Wilson CIs, McNemar + Holm tests, ROC/threshold results with bootstrap CIs, per-language calibration, tokenizer check, translate-first, version drift, romanized harm, real comments, Qwen3Guard strict reading |
 | `results/pilots/` | pilot (P1), retry (P2) and confirmation (C1) outputs |
+| `results/mitigation/` | transliterate-first run (guard verdicts on Bengali-script rewrites; harmless rewrites only) and light filters on the full English questions |
 | `results/light_filters/`, `results/judges/`, `results/translation_check/` | light toxicity filters, refusal-judge study and translation-quality ratings |
 
 The scripts were written for the working layout of the project, so some file paths inside them refer to the
