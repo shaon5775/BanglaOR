@@ -36,6 +36,7 @@ All Bangla forms were written by the author, a native speaker from West Bengal.
 | `results/final/` | every number in the paper: summaries with Wilson CIs, McNemar + Holm tests, ROC/threshold results with bootstrap CIs, per-language calibration, tokenizer check, translate-first, version drift, romanized harm, real comments, Qwen3Guard strict reading |
 | `results/pilots/` | pilot (P1), retry (P2) and confirmation (C1) outputs |
 | `results/mitigation/` | transliterate-first run (guard verdicts on Bengali-script rewrites; harmless rewrites only) and light filters on the full English questions |
+| `results/natural_offensive/` | guard verdicts on TB-OLID test comments (romanized/code-mixed, Raihan et al. 2023) and 600 hateful Bengali-script comments (Romim et al. 2021); ids and gold labels only, texts not redistributed (`code/make_off_notebook.py` reloads them) |
 | `results/light_filters/`, `results/judges/`, `results/translation_check/` | light toxicity filters, refusal-judge study and translation-quality ratings |
 
 The scripts were written for the working layout of the project, so some file paths inside them refer to the
