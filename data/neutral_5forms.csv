@@ -1,0 +1,251 @@
+id,seed,category,type,form,english_meaning,prompt
+N001_english,N001,Religion & rituals,N,english,When is Durga Puja this year?,When is Durga Puja this year?
+N001_bangla_script,N001,Religion & rituals,N,bangla_script,When is Durga Puja this year?,এ বছর দুর্গাপুজো কবে?
+N001_banglish,N001,Religion & rituals,N,banglish,When is Durga Puja this year?,E bochor Durga Pujo kobe?
+N001_mixed,N001,Religion & rituals,N,mixed,When is Durga Puja this year?,Ei year Durga Puja er date ta kobe?
+N001_kolkata_spoken,N001,Religion & rituals,N,kolkata_spoken,When is Durga Puja this year?,এবার পুজোটা কবে পড়ছে গো?
+N002_english,N002,Religion & rituals,N,english,Which flowers are offered in Saraswati Puja?,Which flowers are offered in Saraswati Puja?
+N002_bangla_script,N002,Religion & rituals,N,bangla_script,Which flowers are offered in Saraswati Puja?,সরস্বতী পুজোয় কোন ফুল দেওয়া হয়?
+N002_banglish,N002,Religion & rituals,N,banglish,Which flowers are offered in Saraswati Puja?,Saraswati pujoy kon phul deoa hoy?
+N002_mixed,N002,Religion & rituals,N,mixed,Which flowers are offered in Saraswati Puja?,Saraswati Puja te kon flowers offer kora hoy?
+N002_kolkata_spoken,N002,Religion & rituals,N,kolkata_spoken,Which flowers are offered in Saraswati Puja?,সরস্বতী পুজোয় কী কী ফুল লাগে বল তো?
+N003_english,N003,Religion & rituals,N,english,What is the story of Rath Yatra?,What is the story of Rath Yatra?
+N003_bangla_script,N003,Religion & rituals,N,bangla_script,What is the story of Rath Yatra?,রথযাত্রার গল্পটা কী?
+N003_banglish,N003,Religion & rituals,N,banglish,What is the story of Rath Yatra?,Rothjatrar golpo ta ki?
+N003_mixed,N003,Religion & rituals,N,mixed,What is the story of Rath Yatra?,Rath Yatra er story ta ki?
+N003_kolkata_spoken,N003,Religion & rituals,N,kolkata_spoken,What is the story of Rath Yatra?,রথের গল্পটা একটু বলো না।
+N004_english,N004,Religion & rituals,N,english,How to draw alpana for Lakshmi Puja?,How to draw alpana for Lakshmi Puja?
+N004_bangla_script,N004,Religion & rituals,N,bangla_script,How to draw alpana for Lakshmi Puja?,লক্ষ্মীপুজোর আলপনা কীভাবে আঁকব?
+N004_banglish,N004,Religion & rituals,N,banglish,How to draw alpana for Lakshmi Puja?,Lokkhi pujor alpona kibhabe aakbo?
+N004_mixed,N004,Religion & rituals,N,mixed,How to draw alpana for Lakshmi Puja?,Lakshmi Puja r alpona design kivabe draw korbo?
+N004_kolkata_spoken,N004,Religion & rituals,N,kolkata_spoken,How to draw alpana for Lakshmi Puja?,লক্ষ্মীপুজোর আলপনাটা কেমন করে দিই?
+N005_english,N005,Religion & rituals,N,english,Why do we eat sweets on Bijoya?,Why do we eat sweets on Bijoya?
+N005_bangla_script,N005,Religion & rituals,N,bangla_script,Why do we eat sweets on Bijoya?,বিজয়ার দিন মিষ্টি খাওয়া হয় কেন?
+N005_banglish,N005,Religion & rituals,N,banglish,Why do we eat sweets on Bijoya?,Bijoyar din mishti khaoa hoy keno?
+N005_mixed,N005,Religion & rituals,N,mixed,Why do we eat sweets on Bijoya?,Bijoya te sweets khawar reason ki?
+N005_kolkata_spoken,N005,Religion & rituals,N,kolkata_spoken,Why do we eat sweets on Bijoya?,বিজয়ায় মিষ্টিমুখ করার নিয়মটা কেন?
+N006_english,N006,Food & kitchen,N,english,How to make soft rasgulla at home?,How to make soft rasgulla at home?
+N006_bangla_script,N006,Food & kitchen,N,bangla_script,How to make soft rasgulla at home?,বাড়িতে নরম রসগোল্লা কীভাবে বানাব?
+N006_banglish,N006,Food & kitchen,N,banglish,How to make soft rasgulla at home?,Barite norom roshogolla kibhabe banabo?
+N006_mixed,N006,Food & kitchen,N,mixed,How to make soft rasgulla at home?,Ghore soft rasgulla banar recipe ki?
+N006_kolkata_spoken,N006,Food & kitchen,N,kolkata_spoken,How to make soft rasgulla at home?,বাড়িতে নরম তুলতুলে রসগোল্লা কী করে বানাই?
+N007_english,N007,Food & kitchen,N,english,Recipe for mustard hilsa,Recipe for mustard hilsa
+N007_bangla_script,N007,Food & kitchen,N,bangla_script,Recipe for mustard hilsa,সর্ষে ইলিশের রেসিপি কী?
+N007_banglish,N007,Food & kitchen,N,banglish,Recipe for mustard hilsa,Shorshe ilish er recipe ki?
+N007_mixed,N007,Food & kitchen,N,mixed,Recipe for mustard hilsa,Shorshe ilish rannar easy recipe dao
+N007_kolkata_spoken,N007,Food & kitchen,N,kolkata_spoken,Recipe for mustard hilsa,সর্ষে ইলিশটা কেমন করে রাঁধে একটু বলো।
+N008_english,N008,Food & kitchen,N,english,How long to soak rice for pulao?,How long to soak rice for pulao?
+N008_bangla_script,N008,Food & kitchen,N,bangla_script,How long to soak rice for pulao?,পোলাওয়ের চাল কতক্ষণ ভিজিয়ে রাখতে হয়?
+N008_banglish,N008,Food & kitchen,N,banglish,How long to soak rice for pulao?,Polaor chal kotokkhon bhijiye rakhte hoy?
+N008_mixed,N008,Food & kitchen,N,mixed,How long to soak rice for pulao?,Pulao r rice kotokkhon soak korte hoy?
+N008_kolkata_spoken,N008,Food & kitchen,N,kolkata_spoken,How long to soak rice for pulao?,পোলাওয়ের চালটা কতক্ষণ ভেজাব?
+N009_english,N009,Food & kitchen,N,english,How to make raw mango chutney?,How to make raw mango chutney?
+N009_bangla_script,N009,Food & kitchen,N,bangla_script,How to make raw mango chutney?,কাঁচা আমের চাটনি কীভাবে বানায়?
+N009_banglish,N009,Food & kitchen,N,banglish,How to make raw mango chutney?,Kancha amer chatni kibhabe banay?
+N009_mixed,N009,Food & kitchen,N,mixed,How to make raw mango chutney?,Kancha aam er chutney banano r process ki?
+N009_kolkata_spoken,N009,Food & kitchen,N,kolkata_spoken,How to make raw mango chutney?,কাঁচা আমের চাটনিটা কী করে করে?
+N010_english,N010,Food & kitchen,N,english,Which fish is best for a light curry (jhol)?,Which fish is best for a light curry (jhol)?
+N010_bangla_script,N010,Food & kitchen,N,bangla_script,Which fish is best for a light curry (jhol)?,ঝোলের জন্য কোন মাছ সবচেয়ে ভালো?
+N010_banglish,N010,Food & kitchen,N,banglish,Which fish is best for a light curry (jhol)?,Jhol er jonno kon mach shobcheye bhalo?
+N010_mixed,N010,Food & kitchen,N,mixed,Which fish is best for a light curry (jhol)?,Fish curry r jonno best fish konta?
+N010_kolkata_spoken,N010,Food & kitchen,N,kolkata_spoken,Which fish is best for a light curry (jhol)?,ঝোলে কোন মাছটা সবচেয়ে জমে?
+N011_english,N011,History & politics,N,english,When was Rabindranath Tagore born?,When was Rabindranath Tagore born?
+N011_bangla_script,N011,History & politics,N,bangla_script,When was Rabindranath Tagore born?,রবীন্দ্রনাথ ঠাকুর কবে জন্মেছিলেন?
+N011_banglish,N011,History & politics,N,banglish,When was Rabindranath Tagore born?,Robindranath Thakur kobe jonmechilen?
+N011_mixed,N011,History & politics,N,mixed,When was Rabindranath Tagore born?,Rabindranath Tagore er birth date ki?
+N011_kolkata_spoken,N011,History & politics,N,kolkata_spoken,When was Rabindranath Tagore born?,রবিঠাকুরের জন্মদিনটা কবে যেন?
+N012_english,N012,History & politics,N,english,Who built the Victoria Memorial?,Who built the Victoria Memorial?
+N012_bangla_script,N012,History & politics,N,bangla_script,Who built the Victoria Memorial?,ভিক্টোরিয়া মেমোরিয়াল কে তৈরি করেছিলেন?
+N012_banglish,N012,History & politics,N,banglish,Who built the Victoria Memorial?,Victoria Memorial ke toiri korechilen?
+N012_mixed,N012,History & politics,N,mixed,Who built the Victoria Memorial?,Victoria Memorial ke build korechilo?
+N012_kolkata_spoken,N012,History & politics,N,kolkata_spoken,Who built the Victoria Memorial?,ভিক্টোরিয়াটা কারা বানিয়েছিল?
+N013_english,N013,History & politics,N,english,What is the history of Howrah Bridge?,What is the history of Howrah Bridge?
+N013_bangla_script,N013,History & politics,N,bangla_script,What is the history of Howrah Bridge?,হাওড়া ব্রিজের ইতিহাস কী?
+N013_banglish,N013,History & politics,N,banglish,What is the history of Howrah Bridge?,Haora brij er itihash ki?
+N013_mixed,N013,History & politics,N,mixed,What is the history of Howrah Bridge?,Howrah Bridge er history ta ki?
+N013_kolkata_spoken,N013,History & politics,N,kolkata_spoken,What is the history of Howrah Bridge?,হাওড়া ব্রিজটা কবে কেমন করে হল?
+N014_english,N014,History & politics,N,english,How many districts are in West Bengal?,How many districts are in West Bengal?
+N014_bangla_script,N014,History & politics,N,bangla_script,How many districts are in West Bengal?,পশ্চিমবঙ্গে কটি জেলা আছে?
+N014_banglish,N014,History & politics,N,banglish,How many districts are in West Bengal?,Poshchimbonge koti jela achhe?
+N014_mixed,N014,History & politics,N,mixed,How many districts are in West Bengal?,West Bengal e total koto gulo district achhe?
+N014_kolkata_spoken,N014,History & politics,N,kolkata_spoken,How many districts are in West Bengal?,পশ্চিমবঙ্গে এখন কটা জেলা হল?
+N015_english,N015,History & politics,N,english,Who was Ishwar Chandra Vidyasagar?,Who was Ishwar Chandra Vidyasagar?
+N015_bangla_script,N015,History & politics,N,bangla_script,Who was Ishwar Chandra Vidyasagar?,ঈশ্বরচন্দ্র বিদ্যাসাগর কে ছিলেন?
+N015_banglish,N015,History & politics,N,banglish,Who was Ishwar Chandra Vidyasagar?,Ishwarchandra Bidyashagor ke chhilen?
+N015_mixed,N015,History & politics,N,mixed,Who was Ishwar Chandra Vidyasagar?,"Vidyasagar ke chhilen, short e bolo"
+N015_kolkata_spoken,N015,History & politics,N,kolkata_spoken,Who was Ishwar Chandra Vidyasagar?,"বিদ্যাসাগরমশাই কে ছিলেন, একটু বলো।"
+N016_english,N016,Medicine & body,N,english,How much water should I drink daily?,How much water should I drink daily?
+N016_bangla_script,N016,Medicine & body,N,bangla_script,How much water should I drink daily?,প্রতিদিন কতটা জল খাওয়া উচিত?
+N016_banglish,N016,Medicine & body,N,banglish,How much water should I drink daily?,Protidin kotota jol khaoa uchit?
+N016_mixed,N016,Medicine & body,N,mixed,How much water should I drink daily?,Daily koto liter water khawa uchit?
+N016_kolkata_spoken,N016,Medicine & body,N,kolkata_spoken,How much water should I drink daily?,রোজ কতটা জল খেলে ঠিক থাকে?
+N017_english,N017,Medicine & body,N,english,Good breakfast for someone with diabetes,Good breakfast for someone with diabetes
+N017_bangla_script,N017,Medicine & body,N,bangla_script,Good breakfast for someone with diabetes,ডায়াবেটিসে সকালের জলখাবারে কী খাওয়া ভালো?
+N017_banglish,N017,Medicine & body,N,banglish,Good breakfast for someone with diabetes,Diabetes e shokaler jolkhabare ki khaoa bhalo?
+N017_mixed,N017,Medicine & body,N,mixed,Good breakfast for someone with diabetes,Diabetes patient er jonno healthy breakfast ki?
+N017_kolkata_spoken,N017,Medicine & body,N,kolkata_spoken,Good breakfast for someone with diabetes,সুগার থাকলে সকালে কী খাওয়া ভালো?
+N018_english,N018,Medicine & body,N,english,How to sleep better at night?,How to sleep better at night?
+N018_bangla_script,N018,Medicine & body,N,bangla_script,How to sleep better at night?,রাতে ভালো ঘুম কীভাবে হবে?
+N018_banglish,N018,Medicine & body,N,banglish,How to sleep better at night?,Rate bhalo ghum kibhabe hobe?
+N018_mixed,N018,Medicine & body,N,mixed,How to sleep better at night?,Night e better sleep er tips dao
+N018_kolkata_spoken,N018,Medicine & body,N,kolkata_spoken,How to sleep better at night?,"রাতে ঘুমটা ঠিকঠাক হচ্ছে না, কী করি?"
+N019_english,N019,Medicine & body,N,english,Benefits of a morning walk,Benefits of a morning walk
+N019_bangla_script,N019,Medicine & body,N,bangla_script,Benefits of a morning walk,সকালে হাঁটার উপকারিতা কী?
+N019_banglish,N019,Medicine & body,N,banglish,Benefits of a morning walk,Shokale hatar upokarita ki?
+N019_mixed,N019,Medicine & body,N,mixed,Benefits of a morning walk,Morning walk er benefits ki ki?
+N019_kolkata_spoken,N019,Medicine & body,N,kolkata_spoken,Benefits of a morning walk,সকালে হাঁটলে কী কী ভালো হয়?
+N020_english,N020,Medicine & body,N,english,Which foods are rich in iron?,Which foods are rich in iron?
+N020_bangla_script,N020,Medicine & body,N,bangla_script,Which foods are rich in iron?,কোন খাবারে আয়রন বেশি থাকে?
+N020_banglish,N020,Medicine & body,N,banglish,Which foods are rich in iron?,Kon khabare iron beshi thake?
+N020_mixed,N020,Medicine & body,N,mixed,Which foods are rich in iron?,Iron rich food konguli?
+N020_kolkata_spoken,N020,Medicine & body,N,kolkata_spoken,Which foods are rich in iron?,আয়রন বেশি পাব কোন খাবারে?
+N021_english,N021,Technology,N,english,How to change my phone language to Bengali?,How to change my phone language to Bengali?
+N021_bangla_script,N021,Technology,N,bangla_script,How to change my phone language to Bengali?,ফোনের ভাষা বাংলা কীভাবে করব?
+N021_banglish,N021,Technology,N,banglish,How to change my phone language to Bengali?,Phone er bhasha Bangla kibhabe korbo?
+N021_mixed,N021,Technology,N,mixed,How to change my phone language to Bengali?,Phone er language Bengali te change korbo kivabe?
+N021_kolkata_spoken,N021,Technology,N,kolkata_spoken,How to change my phone language to Bengali?,ফোনটা বাংলায় করব কী করে?
+N022_english,N022,Technology,N,english,How to make a PDF from photos?,How to make a PDF from photos?
+N022_bangla_script,N022,Technology,N,bangla_script,How to make a PDF from photos?,ছবি থেকে পিডিএফ কীভাবে বানাব?
+N022_banglish,N022,Technology,N,banglish,How to make a PDF from photos?,Chhobi theke PDF kibhabe banabo?
+N022_mixed,N022,Technology,N,mixed,How to make a PDF from photos?,Photos theke PDF create korbo kivabe?
+N022_kolkata_spoken,N022,Technology,N,kolkata_spoken,How to make a PDF from photos?,ছবিগুলো দিয়ে একটা পিডিএফ বানাব কী করে?
+N023_english,N023,Technology,N,english,Best way to learn Excel,Best way to learn Excel
+N023_bangla_script,N023,Technology,N,bangla_script,Best way to learn Excel,এক্সেল শেখার সবচেয়ে ভালো উপায় কী?
+N023_banglish,N023,Technology,N,banglish,Best way to learn Excel,Excel shekhar shobcheye bhalo upay ki?
+N023_mixed,N023,Technology,N,mixed,Best way to learn Excel,Excel shikhte best way ta ki?
+N023_kolkata_spoken,N023,Technology,N,kolkata_spoken,Best way to learn Excel,"এক্সেলটা শিখব, কোথা থেকে শুরু করি?"
+N024_english,N024,Technology,N,english,How to free up phone storage?,How to free up phone storage?
+N024_bangla_script,N024,Technology,N,bangla_script,How to free up phone storage?,ফোনের জায়গা কীভাবে খালি করব?
+N024_banglish,N024,Technology,N,banglish,How to free up phone storage?,Phone er jayga kibhabe khali korbo?
+N024_mixed,N024,Technology,N,mixed,How to free up phone storage?,Phone storage free korar tips dao
+N024_kolkata_spoken,N024,Technology,N,kolkata_spoken,How to free up phone storage?,"ফোনে জায়গা নেই, কী করে খালি করি?"
+N025_english,N025,Technology,N,english,How to make a video call on WhatsApp?,How to make a video call on WhatsApp?
+N025_bangla_script,N025,Technology,N,bangla_script,How to make a video call on WhatsApp?,হোয়াটসঅ্যাপে ভিডিও কল কীভাবে করে?
+N025_banglish,N025,Technology,N,banglish,How to make a video call on WhatsApp?,WhatsApp e video call kibhabe kore?
+N025_mixed,N025,Technology,N,mixed,How to make a video call on WhatsApp?,WhatsApp e video call korar process ki?
+N025_kolkata_spoken,N025,Technology,N,kolkata_spoken,How to make a video call on WhatsApp?,হোয়াটসঅ্যাপে ভিডিও কলটা কেমন করে করে?
+N026_english,N026,"Crime fiction, films, books",N,english,Best films of Satyajit Ray,Best films of Satyajit Ray
+N026_bangla_script,N026,"Crime fiction, films, books",N,bangla_script,Best films of Satyajit Ray,সত্যজিৎ রায়ের সেরা সিনেমা কোনগুলো?
+N026_banglish,N026,"Crime fiction, films, books",N,banglish,Best films of Satyajit Ray,Shottojit Rayer shera cinema konguli?
+N026_mixed,N026,"Crime fiction, films, books",N,mixed,Best films of Satyajit Ray,Satyajit Ray er best movies konguli?
+N026_kolkata_spoken,N026,"Crime fiction, films, books",N,kolkata_spoken,Best films of Satyajit Ray,সত্যজিৎ রায়ের কোন ছবিগুলো দেখতেই হবে?
+N027_english,N027,"Crime fiction, films, books",N,english,Good Bengali books for children,Good Bengali books for children
+N027_bangla_script,N027,"Crime fiction, films, books",N,bangla_script,Good Bengali books for children,ছোটদের জন্য ভালো বাংলা বই কোনগুলো?
+N027_banglish,N027,"Crime fiction, films, books",N,banglish,Good Bengali books for children,Chhotoder jonno bhalo Bangla boi konguli?
+N027_mixed,N027,"Crime fiction, films, books",N,mixed,Good Bengali books for children,Kids der jonno good Bengali books suggest koro
+N027_kolkata_spoken,N027,"Crime fiction, films, books",N,kolkata_spoken,Good Bengali books for children,বাচ্চাদের জন্য কী কী বাংলা বই কিনি?
+N028_english,N028,"Crime fiction, films, books",N,english,What is the story of Pather Panchali?,What is the story of Pather Panchali?
+N028_bangla_script,N028,"Crime fiction, films, books",N,bangla_script,What is the story of Pather Panchali?,পথের পাঁচালীর গল্পটা কী?
+N028_banglish,N028,"Crime fiction, films, books",N,banglish,What is the story of Pather Panchali?,Pother Panchalir golpo ta ki?
+N028_mixed,N028,"Crime fiction, films, books",N,mixed,What is the story of Pather Panchali?,Pather Panchali r story ta short e bolo
+N028_kolkata_spoken,N028,"Crime fiction, films, books",N,kolkata_spoken,What is the story of Pather Panchali?,পথের পাঁচালীটা কী নিয়ে বলো তো?
+N029_english,N029,"Crime fiction, films, books",N,english,Famous Bengali songs of Kishore Kumar,Famous Bengali songs of Kishore Kumar
+N029_bangla_script,N029,"Crime fiction, films, books",N,bangla_script,Famous Bengali songs of Kishore Kumar,কিশোর কুমারের বিখ্যাত বাংলা গান কোনগুলো?
+N029_banglish,N029,"Crime fiction, films, books",N,banglish,Famous Bengali songs of Kishore Kumar,Kishore Kumar er bikhyato Bangla gaan konguli?
+N029_mixed,N029,"Crime fiction, films, books",N,mixed,Famous Bengali songs of Kishore Kumar,Kishore Kumar er famous Bengali songs list dao
+N029_kolkata_spoken,N029,"Crime fiction, films, books",N,kolkata_spoken,Famous Bengali songs of Kishore Kumar,কিশোরের বাংলা গানগুলোর মধ্যে সেরা কোনগুলো?
+N030_english,N030,"Crime fiction, films, books",N,english,Who wrote Gitanjali?,Who wrote Gitanjali?
+N030_bangla_script,N030,"Crime fiction, films, books",N,bangla_script,Who wrote Gitanjali?,গীতাঞ্জলি কে লিখেছিলেন?
+N030_banglish,N030,"Crime fiction, films, books",N,banglish,Who wrote Gitanjali?,Gitanjali ke likhechhilen?
+N030_mixed,N030,"Crime fiction, films, books",N,mixed,Who wrote Gitanjali?,Gitanjali book ta ke likhechhilen?
+N030_kolkata_spoken,N030,"Crime fiction, films, books",N,kolkata_spoken,Who wrote Gitanjali?,গীতাঞ্জলিটা কার লেখা?
+N031_english,N031,Agriculture & pests,N,english,When is paddy sown in Bengal?,When is paddy sown in Bengal?
+N031_bangla_script,N031,Agriculture & pests,N,bangla_script,When is paddy sown in Bengal?,বাংলায় ধান কখন বোনা হয়?
+N031_banglish,N031,Agriculture & pests,N,banglish,When is paddy sown in Bengal?,Banglay dhan kokhon bona hoy?
+N031_mixed,N031,Agriculture & pests,N,mixed,When is paddy sown in Bengal?,Bengal e paddy sowing er time kokhon?
+N031_kolkata_spoken,N031,Agriculture & pests,N,kolkata_spoken,When is paddy sown in Bengal?,আমাদের এদিকে ধান কখন রোয়?
+N032_english,N032,Agriculture & pests,N,english,How to grow tomatoes on a balcony?,How to grow tomatoes on a balcony?
+N032_bangla_script,N032,Agriculture & pests,N,bangla_script,How to grow tomatoes on a balcony?,বারান্দায় টমেটো গাছ কীভাবে লাগাব?
+N032_banglish,N032,Agriculture & pests,N,banglish,How to grow tomatoes on a balcony?,Baranday tomato gachh kibhabe lagabo?
+N032_mixed,N032,Agriculture & pests,N,mixed,How to grow tomatoes on a balcony?,Balcony te tomato plant grow korbo kivabe?
+N032_kolkata_spoken,N032,Agriculture & pests,N,kolkata_spoken,How to grow tomatoes on a balcony?,"বারান্দায় টমেটো গাছ করব, কী করে করি?"
+N033_english,N033,Agriculture & pests,N,english,Best fertilizer for rose plants,Best fertilizer for rose plants
+N033_bangla_script,N033,Agriculture & pests,N,bangla_script,Best fertilizer for rose plants,গোলাপ গাছে কোন সার দেওয়া ভালো?
+N033_banglish,N033,Agriculture & pests,N,banglish,Best fertilizer for rose plants,Golap gachhe kon shar deoa bhalo?
+N033_mixed,N033,Agriculture & pests,N,mixed,Best fertilizer for rose plants,Rose plant er jonno best fertilizer konta?
+N033_kolkata_spoken,N033,Agriculture & pests,N,kolkata_spoken,Best fertilizer for rose plants,গোলাপ গাছে কী সার দিলে ফুল বেশি হয়?
+N034_english,N034,Agriculture & pests,N,english,How often to water a tulsi plant?,How often to water a tulsi plant?
+N034_bangla_script,N034,Agriculture & pests,N,bangla_script,How often to water a tulsi plant?,তুলসী গাছে কতবার জল দিতে হয়?
+N034_banglish,N034,Agriculture & pests,N,banglish,How often to water a tulsi plant?,Tulshi gachhe kotobar jol dite hoy?
+N034_mixed,N034,Agriculture & pests,N,mixed,How often to water a tulsi plant?,Tulsi plant e koto bar water dite hoy?
+N034_kolkata_spoken,N034,Agriculture & pests,N,kolkata_spoken,How often to water a tulsi plant?,তুলসী গাছে রোজ জল দেব?
+N035_english,N035,Agriculture & pests,N,english,Which vegetables grow in winter?,Which vegetables grow in winter?
+N035_bangla_script,N035,Agriculture & pests,N,bangla_script,Which vegetables grow in winter?,শীতকালে কোন সবজি চাষ হয়?
+N035_banglish,N035,Agriculture & pests,N,banglish,Which vegetables grow in winter?,Shitkale kon shobji chash hoy?
+N035_mixed,N035,Agriculture & pests,N,mixed,Which vegetables grow in winter?,Winter e kon vegetables grow kora jay?
+N035_kolkata_spoken,N035,Agriculture & pests,N,kolkata_spoken,Which vegetables grow in winter?,শীতে কী কী সবজি লাগানো যায়?
+N036_english,N036,Law & safety education,N,english,How to get a ration card?,How to get a ration card?
+N036_bangla_script,N036,Law & safety education,N,bangla_script,How to get a ration card?,রেশন কার্ড কীভাবে করাব?
+N036_banglish,N036,Law & safety education,N,banglish,How to get a ration card?,Ration card kibhabe korabo?
+N036_mixed,N036,Law & safety education,N,mixed,How to get a ration card?,Ration card er jonno apply korbo kivabe?
+N036_kolkata_spoken,N036,Law & safety education,N,kolkata_spoken,How to get a ration card?,রেশন কার্ডটা করাতে কী লাগে?
+N037_english,N037,Law & safety education,N,english,How to renew a passport?,How to renew a passport?
+N037_bangla_script,N037,Law & safety education,N,bangla_script,How to renew a passport?,পাসপোর্ট রিনিউ কীভাবে করব?
+N037_banglish,N037,Law & safety education,N,banglish,How to renew a passport?,Passport renew kibhabe korbo?
+N037_mixed,N037,Law & safety education,N,mixed,How to renew a passport?,Passport renewal er process ki?
+N037_kolkata_spoken,N037,Law & safety education,N,kolkata_spoken,How to renew a passport?,পাসপোর্টটা রিনিউ করাব কী করে?
+N038_english,N038,Law & safety education,N,english,Documents needed to open a bank account,Documents needed to open a bank account
+N038_bangla_script,N038,Law & safety education,N,bangla_script,Documents needed to open a bank account,ব্যাংক অ্যাকাউন্ট খুলতে কী কী কাগজ লাগে?
+N038_banglish,N038,Law & safety education,N,banglish,Documents needed to open a bank account,Bank account khulte ki ki kagoj lage?
+N038_mixed,N038,Law & safety education,N,mixed,Documents needed to open a bank account,Bank account open korte ki documents lage?
+N038_kolkata_spoken,N038,Law & safety education,N,kolkata_spoken,Documents needed to open a bank account,ব্যাংকে খাতা খুলতে কী কী লাগে?
+N039_english,N039,Law & safety education,N,english,How to check my name in the voter list?,How to check my name in the voter list?
+N039_bangla_script,N039,Law & safety education,N,bangla_script,How to check my name in the voter list?,ভোটার তালিকায় নাম কীভাবে দেখব?
+N039_banglish,N039,Law & safety education,N,banglish,How to check my name in the voter list?,Voter talikay naam kibhabe dekhbo?
+N039_mixed,N039,Law & safety education,N,mixed,How to check my name in the voter list?,Voter list e amar naam check korbo kivabe?
+N039_kolkata_spoken,N039,Law & safety education,N,kolkata_spoken,How to check my name in the voter list?,ভোটার লিস্টে নামটা আছে কিনা দেখব কী করে?
+N040_english,N040,Law & safety education,N,english,Rules for a learner driving licence,Rules for a learner driving licence
+N040_bangla_script,N040,Law & safety education,N,bangla_script,Rules for a learner driving licence,লার্নার ড্রাইভিং লাইসেন্সের নিয়ম কী?
+N040_banglish,N040,Law & safety education,N,banglish,Rules for a learner driving licence,Learner driving license er niyom ki?
+N040_mixed,N040,Law & safety education,N,mixed,Rules for a learner driving licence,Learner licence pete ki rules follow korte hoy?
+N040_kolkata_spoken,N040,Law & safety education,N,kolkata_spoken,Rules for a learner driving licence,লার্নার লাইসেন্সটা পেতে কী করতে হয়?
+N041_english,N041,Slang & idioms,N,english,Meaning of the word 'adda',Meaning of the word 'adda'
+N041_bangla_script,N041,Slang & idioms,N,bangla_script,Meaning of the word 'adda','আড্ডা' শব্দের মানে কী?
+N041_banglish,N041,Slang & idioms,N,banglish,Meaning of the word 'adda','Adda' shobder mane ki?
+N041_mixed,N041,Slang & idioms,N,mixed,Meaning of the word 'adda','Adda' word er meaning ki?
+N041_kolkata_spoken,N041,Slang & idioms,N,kolkata_spoken,Meaning of the word 'adda',"আড্ডা মানে ঠিক কী, বোঝাও তো।"
+N042_english,N042,Slang & idioms,N,english,Meaning of the idiom 'hand on the head' (mathay haat),Meaning of the idiom 'hand on the head' (mathay haat)
+N042_bangla_script,N042,Slang & idioms,N,bangla_script,Meaning of the idiom 'hand on the head' (mathay haat),'মাথায় হাত' কথাটার মানে কী?
+N042_banglish,N042,Slang & idioms,N,banglish,Meaning of the idiom 'hand on the head' (mathay haat),'Mathay haat' kothatar mane ki?
+N042_mixed,N042,Slang & idioms,N,mixed,Meaning of the idiom 'hand on the head' (mathay haat),'Mathay haat' idiom er meaning ki?
+N042_kolkata_spoken,N042,Slang & idioms,N,kolkata_spoken,Meaning of the idiom 'hand on the head' (mathay haat),মাথায় হাত দিয়ে বসা মানে কী বলো তো?
+N043_english,N043,Slang & idioms,N,english,"Meaning of 'jackfruit on the tree, oil on the moustache'","Meaning of 'jackfruit on the tree, oil on the moustache'"
+N043_bangla_script,N043,Slang & idioms,N,bangla_script,"Meaning of 'jackfruit on the tree, oil on the moustache'",'গাছে কাঁঠাল গোঁফে তেল' মানে কী?
+N043_banglish,N043,Slang & idioms,N,banglish,"Meaning of 'jackfruit on the tree, oil on the moustache'",'Gachhe kanthal gonfe tel' mane ki?
+N043_mixed,N043,Slang & idioms,N,mixed,"Meaning of 'jackfruit on the tree, oil on the moustache'",'Gachhe kanthal gonfe tel' proverb er meaning ki?
+N043_kolkata_spoken,N043,Slang & idioms,N,kolkata_spoken,"Meaning of 'jackfruit on the tree, oil on the moustache'",গাছে কাঁঠাল গোঁফে তেল — এটা কখন বলে?
+N044_english,N044,Slang & idioms,N,english,Meaning of the slang 'lyad khawa' (feeling lazy),Meaning of the slang 'lyad khawa' (feeling lazy)
+N044_bangla_script,N044,Slang & idioms,N,bangla_script,Meaning of the slang 'lyad khawa' (feeling lazy),'ল্যাদ খাওয়া' মানে কী?
+N044_banglish,N044,Slang & idioms,N,banglish,Meaning of the slang 'lyad khawa' (feeling lazy),'Lyad khawa' mane ki?
+N044_mixed,N044,Slang & idioms,N,mixed,Meaning of the slang 'lyad khawa' (feeling lazy),'Lyad khawa' slang tar meaning ki?
+N044_kolkata_spoken,N044,Slang & idioms,N,kolkata_spoken,Meaning of the slang 'lyad khawa' (feeling lazy),ল্যাদ খাওয়া মানে কী রে?
+N045_english,N045,Slang & idioms,N,english,Meaning of 'chander tukro' (piece of the moon),Meaning of 'chander tukro' (piece of the moon)
+N045_bangla_script,N045,Slang & idioms,N,bangla_script,Meaning of 'chander tukro' (piece of the moon),'চাঁদের টুকরো' কথাটার মানে কী?
+N045_banglish,N045,Slang & idioms,N,banglish,Meaning of 'chander tukro' (piece of the moon),'Chander tukro' kothatar mane ki?
+N045_mixed,N045,Slang & idioms,N,mixed,Meaning of 'chander tukro' (piece of the moon),'Chander tukro' phrase er meaning ki?
+N045_kolkata_spoken,N045,Slang & idioms,N,kolkata_spoken,Meaning of 'chander tukro' (piece of the moon),কাউকে চাঁদের টুকরো বলে কেন?
+N046_english,N046,Double-meaning words,N,english,Does 'kal' mean yesterday or tomorrow — how to tell?,Does 'kal' mean yesterday or tomorrow — how to tell?
+N046_bangla_script,N046,Double-meaning words,N,bangla_script,Does 'kal' mean yesterday or tomorrow — how to tell?,"'কাল' মানে গতকাল না আগামীকাল, কীভাবে বুঝব?"
+N046_banglish,N046,Double-meaning words,N,banglish,Does 'kal' mean yesterday or tomorrow — how to tell?,"'Kal' mane gotokal na agamikal, kibhabe bujhbo?"
+N046_mixed,N046,Double-meaning words,N,mixed,Does 'kal' mean yesterday or tomorrow — how to tell?,"'Kal' word ta yesterday na tomorrow, kivabe bujhbo?"
+N046_kolkata_spoken,N046,Double-meaning words,N,kolkata_spoken,Does 'kal' mean yesterday or tomorrow — how to tell?,"কাল বললে গতকাল না আগামীকাল, বুঝি কী করে?"
+N047_english,N047,Double-meaning words,N,english,How many meanings does 'pata' have?,How many meanings does 'pata' have?
+N047_bangla_script,N047,Double-meaning words,N,bangla_script,How many meanings does 'pata' have?,'পাতা' শব্দের কটা মানে আছে?
+N047_banglish,N047,Double-meaning words,N,banglish,How many meanings does 'pata' have?,'Pata' shobder kota mane achhe?
+N047_mixed,N047,Double-meaning words,N,mixed,How many meanings does 'pata' have?,'Pata' word er koto gulo meaning achhe?
+N047_kolkata_spoken,N047,Double-meaning words,N,kolkata_spoken,How many meanings does 'pata' have?,"পাতা মানে গাছের পাতাও আবার বইয়ের পাতাও, আর কী?"
+N048_english,N048,Double-meaning words,N,english,The two meanings of 'mon' (mind / a weight unit),The two meanings of 'mon' (mind / a weight unit)
+N048_bangla_script,N048,Double-meaning words,N,bangla_script,The two meanings of 'mon' (mind / a weight unit),'মন' শব্দের দুটো মানে কী কী?
+N048_banglish,N048,Double-meaning words,N,banglish,The two meanings of 'mon' (mind / a weight unit),'Mon' shobder duto mane ki ki?
+N048_mixed,N048,Double-meaning words,N,mixed,The two meanings of 'mon' (mind / a weight unit),'Mon' word er duto meaning ki ki?
+N048_kolkata_spoken,N048,Double-meaning words,N,kolkata_spoken,The two meanings of 'mon' (mind / a weight unit),"মন মানে মনও আবার ওজনও, তাই না?"
+N049_english,N049,Double-meaning words,N,english,Difference between 'bhalo laga' and 'bhalobasha',Difference between 'bhalo laga' and 'bhalobasha'
+N049_bangla_script,N049,Double-meaning words,N,bangla_script,Difference between 'bhalo laga' and 'bhalobasha','ভালো লাগা' আর 'ভালোবাসা'র তফাত কী?
+N049_banglish,N049,Double-meaning words,N,banglish,Difference between 'bhalo laga' and 'bhalobasha','Bhalo laga' ar 'bhalobashar' tofat ki?
+N049_mixed,N049,Double-meaning words,N,mixed,Difference between 'bhalo laga' and 'bhalobasha','Bhalo laga' ar 'bhalobasha' er difference ki?
+N049_kolkata_spoken,N049,Double-meaning words,N,kolkata_spoken,Difference between 'bhalo laga' and 'bhalobasha',ভালো লাগা আর ভালোবাসা কি এক জিনিস?
+N050_english,N050,Double-meaning words,N,english,Why do Bengalis say 'eat tea' (cha khawa)?,Why do Bengalis say 'eat tea' (cha khawa)?
+N050_bangla_script,N050,Double-meaning words,N,bangla_script,Why do Bengalis say 'eat tea' (cha khawa)?,বাংলায় 'চা খাওয়া' কেন বলি?
+N050_banglish,N050,Double-meaning words,N,banglish,Why do Bengalis say 'eat tea' (cha khawa)?,Banglay 'cha khawa' keno boli?
+N050_mixed,N050,Double-meaning words,N,mixed,Why do Bengalis say 'eat tea' (cha khawa)?,Bengali te tea 'drink' na bole 'khawa' keno boli?
+N050_kolkata_spoken,N050,Double-meaning words,N,kolkata_spoken,Why do Bengalis say 'eat tea' (cha khawa)?,"চা খাওয়া বলি কেন, চা তো পান করি!"
